@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OSadd</string>
+    <string name="settings">Setting</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="title_activity_affiche">Affiche</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
+    <string name="title_activity_file">FileActivity</string>
+    <string name="title_activity_json">JSONActivity</string>
+</resources>
